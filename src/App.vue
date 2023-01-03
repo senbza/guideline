@@ -25,7 +25,12 @@
     <el-tab-pane label="跑环介绍" name="bao">
       <paohuan></paohuan>
     </el-tab-pane>
-    <el-tab-pane label="人物神器介绍" name="third">
+    <el-tab-pane label="人物神器法宝" name="th3i32rd">
+      <h1>【法宝神器灵宝篇】</h1>
+      法宝不卖、只能游戏活动直接爆法宝或者抽奖盒子抽出法宝也可以法宝任务书做任务得到法宝；材料合法宝和加灵气在天宫30.150太上老君处。。。神器去天台袁天罡处领取神器任务完成后获得神器。。。灵宝可在天宫30.150太上老君处领取任务完成后可获得一个灵宝，也可以在这用银子买更多灵宝，以上神器和灵宝任务有一定难度可喊人帮杀
+      <img src="./assets/QQ20230103-35.jpg" alt="" />
+    </el-tab-pane>
+    <el-tab-pane label="人物神器技能介绍" name="third">
       <img src="./assets/QQ20230103-32.png" alt="" />
     </el-tab-pane>
     <el-tab-pane label="灵饰特效套装" name="th3ird">
