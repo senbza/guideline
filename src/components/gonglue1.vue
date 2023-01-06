@@ -60,6 +60,8 @@
       <h1>2、至尊卡介绍</h1>
       <p>可以快速完成每日任务，人物环100（可以获得50个修炼果，省去100环，大大节省跑300环的时间）还有其他等任务，均可以一键完成</p>
       <img style="width:700px;height:500px" src="../assets/QQ20230103-11.png" alt="" />
+      <h1>3、聚宝盆</h1>
+      <p>每日均可开启一次，给5张摸金符。直接扫荡大雁塔。五个号30-50亿钱币，白亿经验</p>
       <h1 style="color:blueviolet" id="tuhao">4.土豪攻略</h1>
       <p>完成起步攻略以后，直接去私聊<span style="color:blue">@天子</span>（群主）。秒天秒地秒一切.</p>
       <img style="width:700px;height:500px" src="../assets/QQ20230103-12.png" alt="" />

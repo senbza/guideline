@@ -55,6 +55,11 @@
       <h3 style="color:red">8、吊腰.</h3>
       <p>和天命戒一样，用幽魂之水提升。需要 50e在天台袁天罡处兑换</p>
     </div>
+    <div>
+      <h3 style="color:red">9、bb护符.</h3>
+      <p>挑战长安边境副本获得、可以给宝宝增加牛逼技能</p>
+      <img style="width:500px;height:300px" src="../assets/QQ20230106-36.png" alt="" />
+    </div>
   </div>
 </template>
 

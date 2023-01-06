@@ -18,6 +18,10 @@
     <img style="width:700px;height:500px" src="../assets/QQ20230103-17.png" alt="" />
     <p>ps:怪物每小时06分会刷20只，一天只能打20只。一只怪物给400活动积分，可以兑换特殊兽决。</p>
     <img style="width:700px;height:500px" src="../assets/QQ20230103-19.png" alt="" />
+    <p style="color:red">10、蚩尤挑战</p>
+    <p>5000w挑战一次，奖励战魄、材料等，就一个回合，顺手就挑战了</p>
+    <p style="color:red">11、边境救援</p>
+    <p>长安城-昭武校尉-进入边境秘营、进入条件需要8亿钱币，或者5张摸金符。怪物难度比较简单，3满魂环鲲即可通过。给阳光护符。给bb加技能</p>
   </div>
 </template>
 

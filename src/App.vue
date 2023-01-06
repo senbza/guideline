@@ -39,6 +39,9 @@
     <el-tab-pane label="神兽培养图" name="th3i2rd">
       <img src="./assets/QQ20230103-34.jpg" alt="" />
     </el-tab-pane>
+    <el-tab-pane label="内存清理" name="th33i2rd">
+      <neicun></neicun>
+    </el-tab-pane>
   </el-tabs>
 </template>
 
@@ -49,6 +52,7 @@ import bizuo from './components/bizuo.vue'
 import cailiao from './components/cailiao.vue'
 import guaiwu from './components/guaiwu.vue'
 import paohuan from './components/paohuan.vue'
+import neicun from './components/neicun.vue'
 
 export default {
   name: 'App',
@@ -58,7 +62,8 @@ export default {
     bizuo,
     cailiao,
     guaiwu,
-    paohuan
+    paohuan,
+    neicun
   },
   data() {
     return {
